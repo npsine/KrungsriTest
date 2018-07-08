@@ -15,9 +15,10 @@ How to run application?
 - You should to run file under the path:  ../src/main/java/com/test/TestKrungsriApplication.java
 
 Note:
-    - http://localhost:8080/create/user : register new user
-    - http://localhost:8080/user/{id} : view user
-    - http://localhost:8080/users : get all of users
+- http://localhost:8080/create/user : register new user
+- http://localhost:8080/user/{id} : view user
+- http://localhost:8080/users : get all of users
+
 If you have any problem please feel free to let me know.
 
 Thanks ka,
