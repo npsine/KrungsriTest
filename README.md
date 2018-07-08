@@ -1,6 +1,6 @@
 Hi,
 
-I'm Sine. I just finished the test below your assignment.
+I'm Sine.
 
 Environment of this project:
 - IntelliJ
